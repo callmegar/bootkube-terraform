@@ -7,7 +7,7 @@
   },
   "spec": {
     "size": 1,
-    "version": "v3.1.6",
+    "version": "v3.1.10",
     "pod": {
       "nodeSelector": {
         "node-role.kubernetes.io/master": ""
