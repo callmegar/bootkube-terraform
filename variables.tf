@@ -50,7 +50,7 @@ variable "container_images" {
 
   default = {
     hyperkube = "quay.io/coreos/hyperkube:v1.6.4_coreos.0"
-    etcd = "quay.io/coreos/etcd:v3.1.6"
+    etcd = "quay.io/coreos/etcd:v3.1.10"
   }
 }
 
